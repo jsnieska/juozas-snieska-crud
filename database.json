@@ -1,0 +1,54 @@
+{
+  "flowers": [
+    {
+      "title": "Rožinė Puokštė",
+      "categoryId": 1,
+      "price": 30,
+      "img": "https://i0.wp.com/pinkocean.lt/wp-content/uploads/2022/08/IMG-5836.jpg?fit=3024%2C3529&ssl=1",
+      "description": "Gėlių dežutė yra padaryta iš to ir to",
+      "id": "Vs7jztf"
+    },
+    {
+      "title": "Rožinė Puokštė",
+      "categoryId": 1,
+      "price": 30,
+      "img": "https://i0.wp.com/pinkocean.lt/wp-content/uploads/2022/08/IMG-5836.jpg?fit=3024%2C3529&ssl=1",
+      "description": "Gėlių dežutė yra padaryta iš to ir to",
+      "id": "Vs7jztf"
+    },
+    {
+      "title": "Rožinė Puokštė",
+      "categoryId": 1,
+      "price": 30,
+      "img": "https://i0.wp.com/pinkocean.lt/wp-content/uploads/2022/08/IMG-5836.jpg?fit=3024%2C3529&ssl=1",
+      "description": "Gėlių dežutė yra padaryta iš to ir to",
+      "id": "Vs7jztf"
+    },
+    {
+      "title": "Rožinė Puokštė",
+      "categoryId": 1,
+      "price": 30,
+      "img": "https://i0.wp.com/pinkocean.lt/wp-content/uploads/2022/08/IMG-5836.jpg?fit=3024%2C3529&ssl=1",
+      "description": "Gėlių dežutė yra padaryta iš to ir to",
+      "id": "Vs7jztf"
+    },
+    {
+      "title": "dsfsdf",
+      "categoryId": 2,
+      "price": 44214,
+      "img": "https://images.unsplash.com/photo-1661144556080-b9fd08d44ecf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "description": "",
+      "id": "_xgIbin"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Puokštė"
+    },
+    {
+      "id": 2,
+      "title": "Dežutė"
+    }
+  ]
+}
